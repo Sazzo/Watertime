@@ -1,0 +1,7 @@
+{
+  "name": "Watertime",
+  "version": "1.0.1",
+  "description": "Envia uma notificação a cada 1h para beber água.",
+  "author": "sazz#1660",
+  "license": "MIT"
+}
